@@ -1,0 +1,8 @@
+pathlib>=1.0.1
+typing>=3.7.4.3
+argparse>=1.4.0
+logging>=0.5.1.2
+tqdm>=4.65.0
+sentencepiece>=0.1.99  # for token counting
+json>=2.0.9
+pytest>=7.4.0  # for testing
